@@ -1,14 +1,8 @@
 # ⚙️ Varun S - Full Stack Developer & Mechanical Engineer
 
-<div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Engineering%20Excellence&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35)
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mechanical+Engineer;Problem+Solver;Innovation+Enthusiast)](https://git.io/typing-svg)
 
-</div>
 
----
+
 
 ## 🔧 About Me
 
@@ -68,23 +62,7 @@ I'm a **results-driven developer** with a unique blend of mechanical engineering
 
 ---
 
-## ⚡ Engineering Approach
 
-```mermaid
-graph TD
-    A[Problem Analysis] --> B[System Design]
-    B --> C[Precision Implementation]
-    C --> D[Quality Testing]
-    D --> E[Performance Optimization]
-    E --> F[Scalable Solution]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#f9ca24
-    style E fill:#6c5ce7
-    style F fill:#a29bfe
-```
 
 ### 🔩 **Mechanical Precision in Code**
 - **Systematic Problem-Solving**: Breaking down complex challenges into manageable components
@@ -96,7 +74,7 @@ graph TD
 
 ## 🚀 Technical Expertise
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
