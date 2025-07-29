@@ -5,6 +5,7 @@ I’m a passionate and driven Full-Stack Web Developer with a strong foundation 
 While my core strength lies in the Java tech stack, I'm a quick learner and always ready to adapt to new technologies, frameworks, and tools. I'm deeply interested in clean code, performance optimization, and scalable architecture—and I thrive in collaborative, agile teams that value continuous learning and innovation.
 
 Currently, I'm looking for opportunities where I can contribute meaningfully, grow alongside a high-performing team, and stay at the forefront of modern web development.
+
 ---
 
 ## 🚀 Featured Projects
